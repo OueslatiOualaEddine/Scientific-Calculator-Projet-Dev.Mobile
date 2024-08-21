@@ -13,9 +13,11 @@ The ScientificCalculator app is designed for users who need a powerful yet intui
 ## Screenshots:
 
 **Basic Features:**
-![Testing Normal Features](https://github.com/user-attachments/assets/975ffb16-3a11-4d6e-839e-2168f7cc46ee)
+
+![Testing Normal Features](https://github.com/user-attachments/assets/f99f4b97-cab6-4f65-add2-abed06c1dfc6)
 
 **Advanced Features:**
+
 ![Testing Advanced Features](https://github.com/user-attachments/assets/89dbece0-d23e-4ff0-8f7f-21ab8802bf5f)
 
 ## Design and User Interface:
