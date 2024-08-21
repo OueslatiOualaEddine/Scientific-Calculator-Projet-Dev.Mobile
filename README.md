@@ -13,7 +13,12 @@ The ScientificCalculator app is designed for users who need a powerful yet intui
 ## Screenshots:
 
 **Basic Features:**
-![Basic Features](./Testing Normal Features.png)
+![Testing Normal Features](https://github.com/user-attachments/assets/67ce559e-3b00-4f39-913d-07bf5380ac11)
 
 **Advanced Features:**
-![Advanced Features](./path/Testing Advanced Features.png)
+![Testing Advanced Features](https://github.com/user-attachments/assets/89dbece0-d23e-4ff0-8f7f-21ab8802bf5f)
+
+## Design and User Interface:
+The app’s design prioritizes clarity and ease of use. The color palette was chosen to ensure that the interface is not only visually appealing but also accessible in different lighting conditions. Key elements like buttons and text have been given distinct colors and labels to facilitate quick recognition and reduce input errors.
+
+The strings for all the button texts have been meticulously set to ensure consistency and familiarity for users, making the app intuitive to use for both basic and scientific calculations.
