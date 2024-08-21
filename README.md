@@ -1,65 +1,19 @@
 # ScientificCalculator
 
-Here are the colors:
+## Overview:
+The ScientificCalculator app is designed for users who need a powerful yet intuitive tool for performing both basic and advanced mathematical calculations. Whether you're tackling everyday arithmetic or delving into complex scientific equations, this app provides the functionality you need, all wrapped in an elegant and user-friendly interface.
 
-    <!-- Colors for the background -->
-    <color name="blackStart">#060607</color>
-    <color name="blueBlack">#111f28</color>
-    <color name="greyEnd">#484e52</color>
+## Features:
+- **Basic Calculations:** Perform standard arithmetic operations with ease.
+- **Advanced Functions:** Access a range of scientific functions including trigonometric operations, logarithms, exponents, square roots, and more.
+- **Customizable Colors:** Enjoy a visually appealing interface with a color scheme designed to be easy on the eyes while adding a touch of style.
+- **User-Friendly Interface:** Large buttons and a clear display make it easy to input and review calculations.
+- **Prime Number Check:** A unique feature allows users to quickly verify whether a number is prime.
 
-    <!-- Colors to add a little pop to the buttons -->
-    <color name="greyAccent">#afb9c5</color>
-    <color name="tanAccent">#e3cdb3</color>
+## Screenshots:
 
-    <!-- Clear Button Colors -->
-    <color name="redBackground">#5a020b</color>
-    <color name="redAccent">#ff0000</color>
+**Basic Features:**
+![Basic Features](./Testing Normal Features.png)
 
-    <!-- Equals Button Colors -->
-    <color name="greenBackground">#013300</color>
-    <color name="greenAccent">#2ffd64</color>
-
-    <!-- Math Operator Button Colors -->
-    <color name="purpleBackground">#330133</color>
-    <color name="purpleAccent">#de00de</color>
-
-Here are the strings:
-
-    <string name="oneText">1</string>
-    <string name="twoText">2</string>
-    <string name="threeText">3</string>
-    <string name="fourText">4</string>
-    <string name="fiveText">5</string>
-    <string name="sixText">6</string>
-    <string name="sevenText">7</string>
-    <string name="eightText">8</string>
-    <string name="nineText">9</string>
-    <string name="zeroText">0</string>
-
-    <string name="clearText">C</string>
-    <string name="parenthesesOpenText">(</string>
-    <string name="parenthesesCloseText">)</string>
-    <string name="divideText">÷</string>
-    <string name="multiplyText">×</string>
-    <string name="addText">+</string>
-    <string name="subtractText">-</string>
-    <string name="decimalText">.</string>
-    <string name="equalsText">=</string>
-
-    <string name="trigSinText">sin</string>
-    <string name="trigCosText">cos</string>
-    <string name="trigTanText">tan</string>
-    <string name="trigArcSinText">sin<sup><small>-1</small></sup></string>
-    <string name="trigArcCosText">cos<sup><small>-1</small></sup></string>
-    <string name="trigArcTanText">tan<sup><small>-1</small></sup></string>
-    <string name="naturalLogText">ln</string>
-    <string name="LogText">log</string>
-    <string name="squareRootText">√</string>
-    <string name="absoluteValueText">|x|</string>
-    <string name="piText">π</string>
-    <string name="eText">e</string>
-    <string name="xSquaredText">x<sup><small>2</small></sup></string>
-    <string name="xPowerYText">x<sup><small>y</small></sup></string>
-    <string name="isPrimeFunctionText">prime</string>
-
-    <string name="backspace"> </string>
+**Advanced Features:**
+![Advanced Features](./path/Testing Advanced Features.png)
