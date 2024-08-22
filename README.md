@@ -20,7 +20,8 @@ The strings for all the button texts have been meticulously set to ensure consis
 
 **Basic Features:**
 
-![Testing Normal Features](https://github.com/user-attachments/assets/f99f4b97-cab6-4f65-add2-abed06c1dfc6)
+<img src="https://github.com/user-attachments/assets/f99f4b97-cab6-4f65-add2-abed06c1dfc6" alt="Testing Normal Features" width="400"/>
+
 
 **Advanced Features:**
 
